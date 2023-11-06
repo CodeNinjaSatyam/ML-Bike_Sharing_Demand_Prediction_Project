@@ -1,4 +1,4 @@
-# ML-Bike_Sharing_Demand_Predition_Project
+# ML-Bike_Sharing_Demand_Prediction_Project
 
 ## Overview
 
